@@ -1,0 +1,4 @@
+interface:
+  display_name: "AllrangeKit Photo"
+  short_description: "한글 설명을 실제 스톡 사진 같은 이미지 프롬프트로 변환"
+  default_prompt: "$allrange-photo 스킬을 사용해서 AllrangeKit의 자연스러운 인물 사진용 프롬프트를 만들어줘. 필요한 항목만 한글로 입력하게 안내해줘."
